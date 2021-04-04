@@ -1,2 +1,2 @@
 language = "bash"
-run = ""
+run = "python greedy_2.py"
