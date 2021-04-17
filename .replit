@@ -1,2 +1,2 @@
 language = "bash"
-run = "python greedy_2.py"
+run = "python DFS_Template.py"
