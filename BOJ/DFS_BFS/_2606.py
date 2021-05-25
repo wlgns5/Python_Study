@@ -1,5 +1,5 @@
+# 바이러스
 from collections import deque
-
 
 def bfs(x):
     q = deque([x])
