@@ -1,5 +1,7 @@
 # 미로탐색
 from collections import deque
+
+
 def bfs(x, y):
     q = deque([(x, y)])
 
@@ -34,5 +36,3 @@ for _ in range(N):
 
 bfs(0, 0)
 print(arr[N-1][M-1])
-
-
